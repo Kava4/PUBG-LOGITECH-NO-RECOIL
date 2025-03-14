@@ -54,7 +54,7 @@ _Left: Without Script ❌ | Right: With Script ✅_
 
 ### 2️⃣ Download & Load the Script
 
-- Get the **[PUBG-Logitech-No-Recoil.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL-SEASON-31)** script.
+- Get the **[PUBG-Logitech-No-Recoil.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL/blob/master/PUBG-Logitech-No-Recoil.lua)** script.
 - Open **Logitech G Hub** → Click on your **PUBG profile**.
 - Go to **Scripting** (bottom left) → Click **Create New Lua Script**.
 - **Paste the script** into the editor and **Save**.
@@ -123,7 +123,7 @@ end
 
 ## 🎛️ Dynamic Recoil Adjustment (Test Needed)
 
-- Get the **[PUBG-Logitech-No-Recoil.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL-SEASON-31)** script.
+- Get the **[PUBG_Simple_NoRecoil_Adjustable.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL/blob/master/PUBG-Logitech-No-Recoil.lua)** script.
 - Open **Logitech G Hub** → Click on your **PUBG profile**.
 - Go to **Scripting** (bottom left) → Click **Create New Lua Script**.
 - **Paste the script** into the editor and **Save**
