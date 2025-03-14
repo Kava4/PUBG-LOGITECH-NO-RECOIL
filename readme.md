@@ -121,7 +121,7 @@ end
 
 ---
 
-## 🎛️ Dynamic Recoil Adjustment
+## 🎛️ Dynamic Recoil Adjustment (Test Needed)
 
 - Get the **[PUBG-Logitech-No-Recoil.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL-SEASON-31)** script.
 - Open **Logitech G Hub** → Click on your **PUBG profile**.
