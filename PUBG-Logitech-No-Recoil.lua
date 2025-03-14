@@ -106,6 +106,18 @@ local SensSetting = 1  --> !! Change it for your own "Vertical Sensitivity Multi
 
 
 
+function OnEvent(event, arg)
+    -- Adjust Recoil Dynamically using G-Keys
+    if (event == "G_PRESSED" and arg == 8) then  -- G8 increases recoil control
+        SensSetting = SensSetting + 0.05
+        OutputLogMessage("Increased Recoil Compensation: " .. SensSetting .. "\n")
+    end
+    
+    if (event == "G_PRESSED" and arg == 9) then  -- G9 decreases recoil control
+        SensSetting = SensSetting - 0.05
+        OutputLogMessage("Decreased Recoil Compensation: " .. SensSetting .. "\n")
+    end
+
 
 
 
