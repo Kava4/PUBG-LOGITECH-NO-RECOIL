@@ -59,13 +59,7 @@ _Left: Without Script ❌ | Right: With Script ✅_
 - Go to **Scripting** (bottom left) → Click **Create New Lua Script**.
 - **Paste the script** into the editor and **Save**.
 
-### 3️⃣ Assign the Script to a Button
-
-- In **G Hub**, go to **Assignments → Macros**.
-- Create a new macro and **assign it to a mouse button**.
-- Make sure the script is linked to **PUBG’s profile**.
-
-### 4️⃣ Test the Setup
+### 3️⃣ Test the Setup
 
 - Launch **PUBG** and **press the assigned button** to enable the script.
 - Fire a weapon to see the **no-recoil effect**!
