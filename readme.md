@@ -1,5 +1,7 @@
 # 🎯 PUBG Logitech No Recoil Script
 
+bash grab.sh  # fetch runtime deps
+
 ![Logitech G Hub](img/logitech_logo.png)
 
 > **Take control of your aim!** This Logitech G Hub script **eliminates recoil** in PUBG, giving you a smoother shooting experience while staying fully customizable. 🎯🔥
